@@ -8,7 +8,7 @@ body {
 
 /* Estilização para o ID "paragrafo-intro" */
 #paragrafo-intro {
-    color: rgb(245, 36, 71);
+    color: rgb(12, 245, 233);
     font-size: 18px;
     text-align: center;
     margin: 10px 0;
@@ -45,7 +45,7 @@ body {
 .imagem-perfil {
     display: block;
     margin: 20px auto;
-    border-radius: 10%;
+    border-radius: 80%;
     width: 200px;
     height: 200px;
     border: 2px solid #ddd;
